@@ -124,27 +124,27 @@ El análisis permitió identificar varios factores fuertemente asociados al aban
 
 La variable Contract fue una de las más representativas del análisis. Se observó que la gran mayoría de los clientes que abandonaron la empresa poseían contratos Month-to-month, mientras que los contratos de uno y dos años estuvieron asociados a una mayor permanencia.
 
-![Contract](images/Contract.jpg)
+![Contract](../images/Contract.jpg)
 
 #### Tipo de servicio de Internet
 
 Los clientes con servicio de Fibra Óptica presentaron una proporción considerablemente mayor de abandono respecto a quienes utilizaban DSL o no poseían servicio de Internet.
 
-![InternetService](images/InternetService.jpg)
+![InternetService](../images/InternetService.jpg)
 
 #### Soporte técnico y seguridad
 
 Las variables TechSupport y OnlineSecurity mostraron un comportamiento muy similar. Los clientes que no contaban con estos servicios presentaron una probabilidad de abandono significativamente superior.
 
-![TechSupport](images/TechSupport.jpg)
+![TechSupport](../images/TechSupport.jpg)
 
-![OnlineSecurity](images/OnlineSecurity.jpg)
+![OnlineSecurity](../images/OnlineSecurity.jpg)
 
 #### Método de pago
 
 El método de pago también mostró diferencias relevantes. Los clientes que utilizaban Electronic Check registraron una mayor tasa de churn en comparación con el resto de los métodos de pago.
 
-![PaymentMethod](images/PaymentMethod.jpg)
+![PaymentMethod](../images/PaymentMethod.jpg)
 
 #### Variables numéricas
 
@@ -156,15 +156,15 @@ Los diagramas de caja confirmaron estas diferencias y permitieron observar la pr
 
 ##### Tenure
 
-![tenure](images/tenure.jpg)
+![tenure](../images/tenure.jpg)
 
 ##### Monthly Charges
 
-![MonthlyCharges](images/MonthlyCharges.jpg)
+![MonthlyCharges](../images/MonthlyCharges.jpg)
 
 ##### Total Charges
 
-![TotalCharges](images/TotalCharges.jpg)
+![TotalCharges](../images/TotalCharges.jpg)
 
 #### Conclusión
 
