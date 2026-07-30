@@ -27,6 +27,7 @@ El objetivo principal consiste en comprender el comportamiento de los clientes, 
 El proyecto utiliza el dataset Telco Customer Churn, que contiene información demográfica de los clientes, los servicios contratados, información de facturación y el estado final de abandono.
 
 |Atributo	|Descripción|
+| ----------| ----------:|
 |customerID|	Identificador único del cliente|
 |gender|	Género del cliente|
 |SeniorCitizen|	Indica si el cliente es adulto mayor|
@@ -118,6 +119,7 @@ La comparación entre modelos se realizó utilizando las siguientes métricas:
 
 ### Comparación de modelos
 |Modelo	Accuracy|	ROC-AUC|
+| -------------| --------: |
 |Regresión Logística|	80.38%	0.8357|
 |Árbol de Decisión|	71.50%	0.6382|
 |Random Forest|	78.75%	0.8119|
