@@ -96,7 +96,7 @@ Una vez finalizadas estas tareas, se obtuvo un dataset consistente, sin registro
 
 Resumen de las transformaciones realizadas: 
 
-|Transformación	Resultado|
+|Transformación|	Resultado|
 | ----------| ----------:|
 |Verificación de categorías|	No se encontraron errores de escritura ni categorías duplicadas.|
 |Identificación de valores vacíos|	Se detectaron valores vacíos únicamente en TotalCharges.|
