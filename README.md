@@ -42,7 +42,7 @@ El proyecto utiliza el dataset Telco Customer Churn, que contiene información d
 |DeviceProtection|	Protección de dispositivos|
 |TechSupport|	Soporte técnico|
 |StreamingTV|	Servicio de televisión por streaming|
-|StreamingMovies	Servicio de películas por streaming|
+|StreamingMovies|	Servicio de películas por streaming|
 |Contract|	Tipo de contrato|
 |PaperlessBilling|	Facturación electrónica|
 |PaymentMethod|	Método de pago|
