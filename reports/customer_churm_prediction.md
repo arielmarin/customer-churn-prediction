@@ -273,9 +273,9 @@ Entre los principales elementos incluidos se encuentran:
 
 La integración del dashboard permite transformar los resultados obtenidos durante el análisis exploratorio y el desarrollo de modelos en información fácilmente interpretable para usuarios de negocio, facilitando la toma de decisiones basada en datos.
 
-##### (captura general del Dashboard.)
-
-##### (dashboard posee varias páginas.)
+![Dashboard1](../images/Dashboard_Page1.jpg)
+![Dashboard2](../images/Dashboard_Page2.jpg)
+![Dashboard3](../images/Dashboard_Page3.jpg)
 
 ### 11. Conclusiones
 

@@ -155,7 +155,11 @@ El dashboard incluye:
 - Variables numéricas.
 - Principales hallazgos del proyecto.
 
-imágenes del dashboard
+![Dashboard1](../customer-churn-prediction/images/Dashboard_Page1.jpg)
+
+![Dashboard2](../customer-churn-prediction/images/Dashboard_Page2.jpg)
+
+![Dashboard3](../customer-churn-prediction/images/Dashboard_Page3.jpg)
 
 ### Tecnologías utilizadas
 - Python
