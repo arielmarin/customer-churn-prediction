@@ -155,10 +155,11 @@ El dashboard incluye:
 - Variables numéricas.
 - Principales hallazgos del proyecto.
 
+#### Pagina 1
 ![Dashboard1](/images/Dashboard_Page1.jpg)
-
+#### Pagina 2
 ![Dashboard2](/images/Dashboard_Page2.jpg)
-
+#### Pagina 3
 ![Dashboard3](/images/Dashboard_Page3.jpg)
 
 ### Tecnologías utilizadas
