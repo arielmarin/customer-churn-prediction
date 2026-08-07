@@ -8,9 +8,6 @@ __pycache__/
 # Archivos de Jupyter
 .ipynb_checkpoints/
 
-# Datos procesados
-data/processed/
-
 # Modelos entrenados
 models/
 
